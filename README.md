@@ -108,7 +108,7 @@ Busco oportunidades que me permitam evoluir tecnicamente e contribuir com soluç
 
 📎 LinkedIn www.linkedin.com/in/nicollasmelo  
 
-📧 Email: nicollasoliver063@gmail.com
+📧 Email: nicollas.melo063@gmail.com
 
 ---
 
