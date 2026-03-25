@@ -105,11 +105,10 @@ Busco oportunidades que me permitam evoluir tecnicamente e contribuir com soluç
 
 ---
 
-## 📫 Contato
+## 📫 Contatos
 
-📎 LinkedIn www.linkedin.com/in/nicollasmelo  
-
-📧 Email: nicollas.melo063@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/nicollasmelo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicollas.melo063@gmail.com)
 
 ---
 
