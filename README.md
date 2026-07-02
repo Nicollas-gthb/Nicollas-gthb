@@ -66,7 +66,7 @@ Atualmente focado em:
 
 ### 🔥 Aplicação Full Stack com FastAPI + React + PostgreSQL + Docker
 
- -> PrototypeBB (em andamento): https://github.com/Nicollas-gthb/PrototypeBB
+ -> TestMidiaBB: [https://github.com/Nicollas-gthb/PrototypeBB](https://github.com/Nicollas-gthb/TestMidiaBB.git)
 
 Projeto completo com:
 
