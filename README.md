@@ -64,9 +64,9 @@ Atualmente focado em:
 
 ## 📌 Projeto em Destaque
 
-### 🔥 Aplicação Full Stack com FastAPI + React + PostgreSQL + Docker
+### TestMidiaBB: [https://github.com/Nicollas-gthb/TestMidiaBB](https://github.com/Nicollas-gthb/TestMidiaBB.git)
 
- -> TestMidiaBB: [https://github.com/Nicollas-gthb/TestMidiaBB](https://github.com/Nicollas-gthb/TestMidiaBB.git)
+#### 🔥 Aplicação Full Stack com FastAPI + React + PostgreSQL + Docker
 
 Projeto completo com:
 
@@ -80,7 +80,7 @@ Projeto completo com:
 - Estrutura organizada para escalabilidade
 
 🔗 Repositórios:  
-https://github.com/Nicollas-gthb
+#### [https://github.com/Nicollas-gthb](https://github.com/Nicollas-gthb)
 
 ---
 
