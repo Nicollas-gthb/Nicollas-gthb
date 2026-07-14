@@ -105,12 +105,6 @@ Busco oportunidades que me permitam evoluir tecnicamente e contribuir com soluç
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicollas-gthb&theme=tokyonight)
-
----
-
 ## 📫 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/nicollasmelo)
