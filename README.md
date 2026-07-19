@@ -113,3 +113,8 @@ Busco oportunidades que me permitam evoluir tecnicamente e contribuir com soluç
 ---
 
 ⭐ Sempre aberto a aprendizado, desafios técnicos e colaboração em projetos.
+
+---
+
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicollas-gthb&theme=tokyonight)
+
